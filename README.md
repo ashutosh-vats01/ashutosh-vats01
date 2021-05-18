@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @ashutosh vats 
-- 👀 I’m interested in data science and python and want to learn more 
-- 🌱 I’m currently learning data science and machine learning 
-- 💞️ I’m looking to collaborate on real world projects and want to learn 
-- 📫 you can reach me using instagram -> ashuvatts
-
-<!---
-ashutosh-vats01/ashutosh-vats01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a Natural Language Processing Real-World Project that is Amazon Use case in which we have to analyse huge chunk of Amazon Data and and from this data we have to extract some meaningful insights from it .
+In this project we have to the Sentiments of the Customers on the basis of their feedback on particular product.So basically we have to predict what exactly is the score depending upon what feedback customer is going to give on that particular product
